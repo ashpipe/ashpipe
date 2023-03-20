@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am a physicist with experience modeling and simulating complex systems and phenomena for photoemission processes. In particular, I have worked on Partial Differential Equations such as the Boltzmann equation, Monte Carlo simulation, Density Functional Theory calculations, and machine learning. I hope to use my knowledge of Physics, Math, and numerical and computational methods in defining and developing new computational tools to aid research in quantum computing and machine learning.
+I am a physicist with experience modeling and simulating complex systems and phenomena for photoemission processes. In particular, I have worked on Partial Differential Equations such as the Boltzmann equation, Monte Carlo simulation, Density Functional Theory calculations, and machine learning. I hope to use my knowledge of Physics, Math, and numerical and computational methods in defining and developing new computational tools to aid research in trading and machine learning.
 
 My skills include Python and C programming, using computing clusters. I have also used quantum computing libraries to solve various optimization and machine learning problems.
 
